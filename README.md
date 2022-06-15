@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+notifications:
+
+webhooks: https://m365x89316340.webhook.office.com/webhookb2/67b9c361-fc23-4fd1-8a1f-053bb4efa291@e2df7dac-a9cc-464d-9742-04570312265d/TravisCI/d2e3b5ab095c4f2297ea790d9b6d07be/204d9842-3c4c-4088-a93a-7bac28073698
